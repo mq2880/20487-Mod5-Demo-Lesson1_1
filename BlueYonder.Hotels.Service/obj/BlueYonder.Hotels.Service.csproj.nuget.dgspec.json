@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\20487C\\Demo\\Demo5Lesson1\\BlueYonder.Hotels.Service\\BlueYonder.Hotels.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\20487C\\Demo\\Demo5Lesson1\\BlueYonder.Hotels.Service\\BlueYonder.Hotels.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\20487C\\Demo\\Demo5Lesson1\\BlueYonder.Hotels.Service\\BlueYonder.Hotels.Service.csproj",
+        "projectName": "BlueYonder.Hotels.Service",
+        "projectPath": "D:\\20487C\\Demo\\Demo5Lesson1\\BlueYonder.Hotels.Service\\BlueYonder.Hotels.Service.csproj",
+        "packagesPath": "C:\\Users\\mq288\\.nuget\\packages\\",
+        "outputPath": "D:\\20487C\\Demo\\Demo5Lesson1\\BlueYonder.Hotels.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mq288\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.AspNetCore.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
